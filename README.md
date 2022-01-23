@@ -13,7 +13,3 @@ Hello, my name is Kyle Coleman and I'm a student at CNM. I hope to change the wo
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/kyle-coleman-996285154/)
-
- > A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
- > 
- > Every line (blank or not) of a blockquote begins with `>`, followed by a space.
