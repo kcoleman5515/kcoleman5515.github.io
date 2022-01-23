@@ -12,4 +12,4 @@ Hello, my name is Kyle Coleman and I'm a student at CNM. I hope to change the wo
 
 ## Links
 
-* [LinkedIn] (https://www.linkedin.com/in/kyle-coleman-996285154/)
+* [LinkedIn] ( {https://www.linkedin.com/in/kyle-coleman-996285154/} )
